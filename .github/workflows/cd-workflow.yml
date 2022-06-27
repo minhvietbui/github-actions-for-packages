@@ -1,10 +1,4 @@
-<<<<<<<< HEAD:.github/workflows/ci-workflow.yml
-# This file wont do us much good in this location, make sure you change the path as directed to continue!
-
-name: Node CI
-========
 name: Docker CD
->>>>>>>> e412e0b (Add Docker Build Image):.github/workflows/cd-workflow.yml
 
 on:
   push:
